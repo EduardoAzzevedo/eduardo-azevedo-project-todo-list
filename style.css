@@ -1,3 +1,16 @@
 * {
   text-align: center;
 }
+
+
+#lista-tarefas {
+  padding: 20px 400px;
+}
+
+.selected {
+  background-color: gray;
+}
+
+.completed {
+  text-decoration: line-through;
+}
